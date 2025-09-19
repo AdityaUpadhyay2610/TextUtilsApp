@@ -1,0 +1,23 @@
+<resources>
+        <string name="app_name">TextUtilss</string>
+        <string name="text_field_label">Enter or paste your text here</string>
+        <string name="copy_to_clipboard">Copy</string>
+        <string name="copied_to_clipboard">Copied to clipboard!</string>
+        <string name="to_uppercase">UPPERCASE</string>
+        <string name="to_lowercase">lowercase</string>
+        <string name="to_title_case">Title Case</string>
+        <string name="trim_spaces">Trim Spaces</string>
+        <string name="reverse_text">Reverse</string>
+        <string name="remove_spaces">No Spaces</string>
+        <string name="clear_all">Clear All</string>
+        <string name="word_count_label">Words: %1$d</string>
+        <string name="character_count_label">Characters: %1$d</string>
+        <string name="preview_label">Preview: %1$s</string>
+        <string name="preview_placeholder">Your text preview will appear here.</string>
+
+        <!-- New strings for Speech-to-Text -->
+        <string name="speak">Speak</string>
+        <string name="listening">Listening…</string>
+        <string name="speak_now_prompt">Speak now…</string>
+        <string name="speech_recognition_not_available">Speech recognition service not available on this device.</string>
+</resources>
